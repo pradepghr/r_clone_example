@@ -1,2 +1,15 @@
 env
 
+accounts/__pycache__/*
+accounts/migrations/*
+
+posts/migrations/*
+posts/__pycache__.py/*
+
+comments/migrations/*
+comments/__pycache__.py/*
+
+profiles/migrations/*
+profiles/__pycache__.py/*
+
+r_clone/curls.txt
