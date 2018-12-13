@@ -4,12 +4,12 @@ accounts/__pycache__/*
 accounts/migrations/*
 
 posts/migrations/*
-posts/__pycache__.py/*
+posts/__pycache__/*
 
 comments/migrations/*
-comments/__pycache__.py/*
+comments/__pycache__/*
 
 profiles/migrations/*
-profiles/__pycache__.py/*
+profiles/__pycache__/*
 
 r_clone/curls.txt
